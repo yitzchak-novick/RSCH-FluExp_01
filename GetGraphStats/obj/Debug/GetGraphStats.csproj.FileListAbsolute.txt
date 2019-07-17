@@ -1,0 +1,10 @@
+C:\Users\ynovi\Dropbox\CUNY_IS\VSProjs\FluExp_01\GetGraphStats\bin\Debug\GetGraphStats.exe.config
+C:\Users\ynovi\Dropbox\CUNY_IS\VSProjs\FluExp_01\GetGraphStats\bin\Debug\GetGraphStats.exe
+C:\Users\ynovi\Dropbox\CUNY_IS\VSProjs\FluExp_01\GetGraphStats\bin\Debug\GetGraphStats.pdb
+C:\Users\ynovi\Dropbox\CUNY_IS\VSProjs\FluExp_01\GetGraphStats\bin\Debug\GraphLibyn.dll
+C:\Users\ynovi\Dropbox\CUNY_IS\VSProjs\FluExp_01\GetGraphStats\bin\Debug\GraphLibyn.pdb
+C:\Users\ynovi\Dropbox\CUNY_IS\VSProjs\FluExp_01\GetGraphStats\obj\Debug\GetGraphStats.csproj.CoreCompileInputs.cache
+C:\Users\ynovi\Dropbox\CUNY_IS\VSProjs\FluExp_01\GetGraphStats\obj\Debug\GetGraphStats.csproj.CopyComplete
+C:\Users\ynovi\Dropbox\CUNY_IS\VSProjs\FluExp_01\GetGraphStats\obj\Debug\GetGraphStats.exe
+C:\Users\ynovi\Dropbox\CUNY_IS\VSProjs\FluExp_01\GetGraphStats\obj\Debug\GetGraphStats.pdb
+C:\Users\ynovi\Dropbox\CUNY_IS\VSProjs\FluExp_01\GetGraphStats\obj\Debug\GetGraphStats.csprojResolveAssemblyReference.cache

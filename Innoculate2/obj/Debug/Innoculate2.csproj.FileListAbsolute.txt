@@ -1,0 +1,11 @@
+C:\Users\ynovi\Dropbox\CUNY_IS\VSProjs\FluExp_01\Innoculate2\obj\Debug\Innoculate2.csprojResolveAssemblyReference.cache
+C:\Users\ynovi\Dropbox\CUNY_IS\VSProjs\FluExp_01\Innoculate2\obj\Debug\Innoculate2.csproj.CoreCompileInputs.cache
+C:\Users\ynovi\Dropbox\CUNY_IS\VSProjs\FluExp_01\Innoculate2\bin\Debug\Innoculate2.exe.config
+C:\Users\ynovi\Dropbox\CUNY_IS\VSProjs\FluExp_01\Innoculate2\bin\Debug\Innoculate2.exe
+C:\Users\ynovi\Dropbox\CUNY_IS\VSProjs\FluExp_01\Innoculate2\bin\Debug\Innoculate2.pdb
+C:\Users\ynovi\Dropbox\CUNY_IS\VSProjs\FluExp_01\Innoculate2\bin\Debug\FluExp_01.exe
+C:\Users\ynovi\Dropbox\CUNY_IS\VSProjs\FluExp_01\Innoculate2\bin\Debug\FluExp_01.pdb
+C:\Users\ynovi\Dropbox\CUNY_IS\VSProjs\FluExp_01\Innoculate2\bin\Debug\FluExp_01.exe.config
+C:\Users\ynovi\Dropbox\CUNY_IS\VSProjs\FluExp_01\Innoculate2\obj\Debug\Innoculate2.csproj.CopyComplete
+C:\Users\ynovi\Dropbox\CUNY_IS\VSProjs\FluExp_01\Innoculate2\obj\Debug\Innoculate2.exe
+C:\Users\ynovi\Dropbox\CUNY_IS\VSProjs\FluExp_01\Innoculate2\obj\Debug\Innoculate2.pdb
